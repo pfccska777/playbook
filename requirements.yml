@@ -6,7 +6,7 @@
 
 - src: https://github.com/pfccska777/vector-role.git
   scm: git
-  version: "1.0.2"
+  version: "1.0.3"
   name: vector
 
 - src: https://github.com/pfccska777/lighthouse-role.git
